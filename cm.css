@@ -1,0 +1,47 @@
+
+form{
+	margin:0 auto;
+	width: 450px;
+	height: 500px;
+	padding: 20px;
+}
+.group{
+	margin: 10px;
+	padding: 5px;
+}
+label{
+	padding-left: 10px;
+	text-transform: uppercase;
+}
+input{
+	margin-top: 10px;
+	height: 40px;
+	width: 400px;
+	border-radius: 18px 18px;
+	border:none;
+	padding-left: 50px;
+	font-size: 18px;
+    background-color: blanchedalmond;
+}
+.layer{
+	background: #FFFFFF;
+	border: 2px solid #A9A9A9;
+	color: gray;
+	position: absolute;
+	left: 20px;
+	width: 428px;
+	height: 710px;
+}
+.text1{
+position: absolute;
+color: gray;
+font-size: 25px;
+left: 100px;
+}
+.text2{
+position: absolute;
+color: gray;
+font-size: 10px;
+left: 70px;
+top: 30px;
+}
